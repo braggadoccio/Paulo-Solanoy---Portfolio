@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'pau.solanoy@gmail.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639178383591',
   },
   {
     id: 3,
     description: 'City',
-    value: 'Baguio City',
+    value: 'Marikina City',
   },
 ];
 
@@ -43,21 +43,15 @@ export const aboutList2 = [
 export const aboutList3 = [
   {
     id: 1,
-    school: 'Hogwarts University',
-    year: '2006',
-    course: 'Elementary',
+    school: 'University of Santo Tomas',
+    year: '2004',
+    course: 'Behavioral Science',
   },
   {
     id: 2,
-    school: 'Hogwarts University',
-    year: '2012',
-    course: 'Senior High School',
-  },
-  {
-    id: 3,
-    school: 'Hogwarts University',
-    year: '2016',
-    course: 'Bachelor of Science in Computer Science',
+    school: 'Claret School',
+    year: '2000',
+    course: 'High School',
   },
 ];
 export const aboutList4 = [
