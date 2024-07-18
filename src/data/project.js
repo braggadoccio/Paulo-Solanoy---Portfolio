@@ -37,7 +37,7 @@ export const projects = [
   {
     id: 5,
     src: project5,
-    name: 'Image Gallery, Video Playback, Feedback form'
+    name: 'Image Gallery Video Playback Feedback Form',
     href: 'https://braggadoccio.github.io/goit-js-hw-08/',
   },
   {
@@ -49,19 +49,19 @@ export const projects = [
   {
     id: 7,
     src: project7,
-    name: 'Image Finder',
-    href: 'https://marventures.github.io/goit-react-hw-04-images/',
+    name: 'Movie',
+    href: 'https://braggadoccio.github.io/goit-react-hw-05-movies/movies/634492',
   },
   {
     id: 8,
     src: project8,
-    name: 'Movie Search',
-    href: 'https://marventures.github.io/goit-react-hw-05-movies/',
+    name: 'Cat Search',
+    href: 'https://braggadoccio.github.io/goit-js-hw-10/',
   },
   {
     id: 9,
     src: project9,
-    name: 'Phonebook',
-    href: 'https://marventures.github.io/goit-react-hw-08-phonebook/',
+    name: 'Feedback',
+    href: 'https://braggadoccio.github.io/goit-react-hw-02-feedback/',
   },
 ];
